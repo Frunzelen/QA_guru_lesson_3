@@ -6,7 +6,11 @@
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi!!!, {name}!!!')  # Press Ctrl+F8 to toggle the breakpoint.
+<<<<<<< HEAD
+    print(f'Hi!!!, {name}!!!1')  # Press Ctrl+F8 to toggle the breakpoint.
+=======
+    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+>>>>>>> parent of ab20712 ({name}!!!)
 
 
 # Press the green button in the gutter to run the script.
